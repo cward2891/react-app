@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cward2891.github.io/react-app/static/css/main.f855e6bc.css",
+    "main.js": "/cward2891.github.io/react-app/static/js/main.a6bf119a.js",
+    "static/js/488.df9316eb.chunk.js": "/cward2891.github.io/react-app/static/js/488.df9316eb.chunk.js",
+    "index.html": "/cward2891.github.io/react-app/index.html",
+    "main.f855e6bc.css.map": "/cward2891.github.io/react-app/static/css/main.f855e6bc.css.map",
+    "main.a6bf119a.js.map": "/cward2891.github.io/react-app/static/js/main.a6bf119a.js.map",
+    "488.df9316eb.chunk.js.map": "/cward2891.github.io/react-app/static/js/488.df9316eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a6bf119a.js"
+  ]
+}
